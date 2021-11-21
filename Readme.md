@@ -22,4 +22,5 @@ After the user has entered a number, the computer gives an indication of the cor
 
 Iteration 3:\
 Implement a score system\
+After every wrong guess, the user is informed how many points he still has.
 Show the user how many unsuccessful attempts it took

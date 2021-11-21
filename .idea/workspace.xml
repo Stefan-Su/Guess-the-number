@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a8577539-c149-43be-84b8-bd75d1477f60" name="Changes" comment="Iteration 1 implemented:&#10;The computer generates a random number between 1 and 100.&#10;The user enters a number and the computer tells him right or wrong.&#10;Implement a control structure to recognize incorrectly entered characters. &lt; 1, &gt; 100 and letters or special character">
+    <list default="true" id="a8577539-c149-43be-84b8-bd75d1477f60" name="Changes" comment="Iteration 2 implemented:&#10;After the user has entered a number, the computer gives an indication of the correct number.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Readme.md" beforeDir="false" afterPath="$PROJECT_DIR$/Readme.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1637345562885</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Iteration 2 implemented:&#10;After the user has entered a number, the computer gives an indication of the correct number.">
+      <created>1637358570159</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1637358570159</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -112,6 +120,16 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Iteration 1 implemented:&#10;The computer generates a random number between 1 and 100.&#10;The user enters a number and the computer tells him right or wrong.&#10;Implement a control structure to recognize incorrectly entered characters. &lt; 1, &gt; 100 and letters or special character" />
-    <option name="LAST_COMMIT_MESSAGE" value="Iteration 1 implemented:&#10;The computer generates a random number between 1 and 100.&#10;The user enters a number and the computer tells him right or wrong.&#10;Implement a control structure to recognize incorrectly entered characters. &lt; 1, &gt; 100 and letters or special character" />
+    <MESSAGE value="Iteration 2 implemented:&#10;After the user has entered a number, the computer gives an indication of the correct number." />
+    <option name="LAST_COMMIT_MESSAGE" value="Iteration 2 implemented:&#10;After the user has entered a number, the computer gives an indication of the correct number." />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="score_list" language="Python" />
+        <watch expression="score_list" language="Python" />
+        <watch expression="score_list" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>
